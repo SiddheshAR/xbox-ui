@@ -18,7 +18,7 @@ export const HeroBackground = styled.picture`
 `;
 
 export const HeroTitle = styled.h2`
-font-size:4rem;
+font-size:3.4rem;
 line-height:1.3;
 font-weight:bold;
 padding-top:1rem ;
@@ -26,7 +26,7 @@ padding-top:1rem ;
 `;
 
 export const HeroSubtTitle = styled.h4`
-font-size:2.5rem;
+font-size:2.1rem;
 font-weight:400;
 line-height:1.4;
 padding:1.5rem 0;
@@ -35,7 +35,7 @@ padding:1.5rem 0;
 
 export const HeroContent = styled.div`
 position:absolute;
-bottom:20%;
+bottom:10%;
 left:50%;
 transform:translateX(-50%);
 text-align:center;

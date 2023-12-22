@@ -61,8 +61,8 @@ color:inherit;
 `;
 
 export const CtaButton = styled.a`
-padding: 1rem 0.3rem 0.7rem 0;
-margin-top: 1.6rem;
+/* padding: 1rem 0.3rem 0.7rem 0; */
+margin-top: 0.4rem;
 font-size: 1.5rem;
 font-weight: 900;
 	text-transform: uppercase;
@@ -73,7 +73,7 @@ font-weight: 900;
 
 export const BlockDes=styled.div`
 color:${(props)=>(props.dark ? "black" :"white" )};
-padding: 2rem 3vw;
+padding: 3rem 2.5vw;
 `;
 
 export const SmallContentTest = css`
