@@ -14,7 +14,7 @@ const FooterCtn = () => {
         <Footer>
             <FooterLinksContainer>
                 <FooterColumn>
-                    <FooterColumnTitle>Browse</FooterColumnTitle>
+                    <FooterColumnTitle>Browse1</FooterColumnTitle>
                     <FooterLink>Xbox Consoles</FooterLink>
                     <FooterLink>Xbox Games</FooterLink>
                     <FooterLink>Xbox Game Pass</FooterLink>
@@ -23,7 +23,7 @@ const FooterCtn = () => {
 
                 <FooterColumn>
                 <FooterColumnTitle>Browse</FooterColumnTitle>
-                    <FooterLink>Xbox Consoles</FooterLink>
+                    <FooterLink>Xbox Consoles1</FooterLink>
                     <FooterLink>Xbox Games</FooterLink>
                     <FooterLink>Xbox Game Pass</FooterLink>
                     <FooterLink>Xbox Accessory</FooterLink>
